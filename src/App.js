@@ -21,7 +21,7 @@ function App() {
 
 function Auth() {
   const urlParams = new URLSearchParams();
-  urlParams.append("client_id", "bb545a7741157adf26b3");
+  urlParams.append("client_id", "1d58c43a053635049c03");
 
   // Scopes: https://docs.github.com/en/developers/apps/scopes-for-oauth-apps
   urlParams.append("scope", "user:email");
